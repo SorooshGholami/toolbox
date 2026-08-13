@@ -138,4 +138,4 @@ at the top of each `.py` file for what it needs.
 
 ## License
 
-MIT — see `LICENSE`.
+see `LICENSE`.
